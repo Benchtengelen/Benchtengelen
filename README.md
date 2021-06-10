@@ -2,7 +2,7 @@
 
 ** This is a ✨ _special_ ✨ repository because it gives you to a short info about me.
 
-## I'm a PHD Student, Jr. Frontend Developer, and nature-lover!
+## I'm a PHD Student, Jr. Frontend Developer, and Basketball fan!
 
 * **Title:**Front End Developer
 * **Skills:** HTML,  CSS, JavaSript, React.js, 
